@@ -1,3 +1,7 @@
+// Author:  前小端 
+// Author url: http://blog.qianxiaoduan.com
+
+
 $(function() {
 	if($.browser.msie && $.browser.version <= 8) {
 		alert("您使用的IE浏览器版本过低，可能造成体验不佳，建议您更新至最新的浏览器版本或使用谷歌、火狐等现代浏览器！");

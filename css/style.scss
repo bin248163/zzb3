@@ -1,7 +1,7 @@
 @charset "utf-8";//设置此项才能编译通过有中文的注释的scss文件
 /*!
 Author:  前小端 
-Author url: http://www.qianxiaoduan.com/
+Author url: http://blog.qianxiaoduan.com/
 */
 @import "Globalstyle.scss";//插入外部文件：全局样式
 $color:#e3262c;//定义全局主色
@@ -69,7 +69,17 @@ a{text-decoration:none;color:#444;
         li.this{a{background:$color;}}
     } 
 }
+.ican{text-align: center;padding: 10px 0 30px;
+    a{display: inline-block;padding:0 24px;font-size: 30px;line-height: 40px;color: #da8131;}
+}
+.xz{width: 220px;overflow: hidden;margin:0 15px 20px;float: left;
 
+    p{text-align: center;font-size: 16px;line-height: 32px;padding-top: 10px;}
+}
+.title{text-align: center;
+    h1{font-size: 34px;color: $color;line-height: 50px;font-weight: bold;}
+    h2{font-size: 19px;}
+}
 //tab部分
 .tab-left{width: $left;float: left;padding-right: 15px;
     ul li{width: 100%;background: $tab-left-bj;border-bottom: 1px solid #fff;position: relative;
@@ -146,21 +156,24 @@ a{text-decoration:none;color:#444;
 }
 .link:before{text-align: center;width:$left;height: 100px;content:"友情链接";float: left;line-height: 100px;font-size: 16px;border-right: 1px solid #d6d6d6;}
 //底部样式
-.bottom{width: 100%;padding: 20px 0;overflow: hidden;background: #272727;min-width: $width;}
-.bot1{padding:0 30px;float: left;
-    ul{padding-top: 10px;
-        li{line-height: 28px;
-            a{color: #ccc;
-                &:hover{color: $color;text-decoration: underline;}
-            }
-        }
-    }
+.bottom{width: 100%;padding: 20px 0 0;overflow: hidden;min-width: $width;border-top:8px solid #000 ;position: relative;}
+.shd{float: left;width: 200px;text-align: center;margin-bottom: 10px;
+    i{width: 52px;height: 52px;margin: auto;background-image: url(../images/i2.jpg);background-repeat: no-repeat;margin-bottom: 5px;}
+    p{font-size: 12px;line-height: 20px;}
 }
-.ewm{width: 130px;float: right;padding: 0 10px;
-    p{text-align: center;color: #bbb;}
+.w-1200{overflow: hidden;margin: auto;width: 1200px;}
+.shi1{background-position: 0 0;}
+.shi2{background-position: -52px 0;}
+.shi3{background-position: -104px 0;}
+.shi4{background-position: -156px 0;}
+.shi5{background-position: -208px 0;}
+.shi6{background-position: -260px 0;}
+.bot1{float: left;}
+.ewm{width: 100px;float: right;padding: 0 10px;position: absolute;right: 0;bottom: 0;
+    p{text-align: center;}
 }
-.bottom1{width: 100%;padding: 10px 0;overflow: hidden;background: #efeeed;min-width: $width;z-index: 9;position: relative;
-    .bot-p1{width: 500px;float: left;}
+.bottom1{width: 100%;padding: 10px 0;overflow: hidden;min-width: $width;z-index: 9;position: relative;
+    .bot-p1{}
     .bot-p2{float: right;
         a{padding-right:10px;}
     }
@@ -171,7 +184,6 @@ a{text-decoration:none;color:#444;
         span{height: 20px;display: inline-block;line-height: 20px;}
     }   
 }
-
 .qq{position: fixed;top: 40%;right: 0;overflow: hidden;}
 
 //首页banner样式 更改banner高度只需更改此文件头部定义$banner函数值

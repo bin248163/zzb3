@@ -6,10 +6,10 @@
 				<a href="#"><img style="background: url(images/banner1_16.jpg) no-repeat center;" /></a>
 			</li>
 			<li>
-				<a href="#"><img style="background: url(images/banner2.jpg) no-repeat center;" /></a>
+				<a href="#"><img style="background: url(images/banner1_16.jpg) no-repeat center;" /></a>
 			</li>
 			<li>
-				<a href="#"><img style="background: url(images/banner3.jpg) no-repeat center;" /></a>
+				<a href="#"><img style="background: url(images/banner1_16.jpg) no-repeat center;" /></a>
 			</li>
 		</ul>
 		<ul class="flex-direction-nav">
@@ -34,263 +34,127 @@
 	</div>
 </div>
 <div class="w-1000">
-	<div class="tab-left" id="tablist1">
-		<ul>
-			<li class="this">
-				<a href="">456</a><i></i>
-			</li>
-			<li>
-				<a href="">456</a><i></i>
-			</li>
-			<li>
-				<a href="">456</a><i></i>
-			</li>
-			<li>
-				<a href="">456</a><i></i>
-			</li>
-			<li>
-				<a href="">456</a><i></i>
-			</li>
-		</ul>
+	<img src="images/ican_19.jpg" alt="" style="margin: 20px auto;"/>
+	<div class="ican">
+		<a href="">西装工装</a>
+		<a href="">衬衣</a>
+		<a href="">大衣</a>
+		<a href="">冲锋衣</a>
+		<a href="">工作服</a>
+		<a href="">文化衫</a>
+		<a href="">特需定制</a>
 	</div>
-	<div class="tab-right">
-		<div class="tab-rightn" id="tab1">
-			<div class="tab-con">
-				<!--1-->
-				<div class="span-50"><img src="images/ico.png" alt="" />
-					<p>123</p>
-				</div>
-				<div class="span-50"><img src="http://yzb123.top/image/banner1.jpg" alt="" /></div>
-				<div class="span-50"><img src="images/banner1.jpg" alt="" /></div>
-				<div class="span-50"><img src="images/ico.png" alt="" /></div>
-			</div>
-			<div class="tab-con">
-				<!--2-->
-				<div class="n-100">
-					<div class="span-50"><img src="images/banner3.jpg" alt="" /></div>
-					<div class="span-50"><img src="images/banner3.jpg" alt="" /></div>
-				</div>
-			</div>
-			<div class="tab-con">
-				<!--3-->
-				<div class="paging">
-					<a href="" class="paga">首页</a>
-					<a href="" class="paga">下一页</a>
-					<a href="" class="active">1</a>
-					<a href="">2</a>
-					<a href="">3</a>
-					<a href="" class="paga">下一页</a>
-					<a href="" class="paga">尾页</a>
-				</div>
-			</div>
-			<div class="tab-con">
-				<!--4-->
-				<div class="sj"><i class="i1"></i><i class="i2"></i></div>
-			</div>
-			<div class="tab-con">
-				<!--4-->
-
-				<p id="b5" class="sp1">播放</p>
-				<p id="b6" class="sp1">暂停</p>
-				<p id="b7" class="sp1">停止</p>
-
-			</div>
-		</div>
-	</div>
-</div>
-<div class="w-1000">
-	<div class="gd">
-
-		<span class="gd_prev"><</span>
-		<span class="gd_next">></span>
-		<div class="gd_main">
-			<div class="gd_main_div">
-				<div class="gd_main_span1">
-					<a href="#" class="gd_main_a1"><img src="images/lizi_img007.jpg" /></a>
-					<a href="#" class="gd_main_a2">+详情点击</a>
-				</div>
-				<div class="gd_main_span1">
-					<a href="#" class="gd_main_a1"><img src="images/lizi_img007.jpg" /></a>
-					<a href="#" class="gd_main_a2">+详情点击</a>
-				</div>
-				<div class="gd_main_span1">
-					<a href="#" class="gd_main_a1"><img src="images/lizi_img007.jpg" /></a>
-					<a href="#" class="gd_main_a2">+详情点击</a>
-				</div>
-				<div class="gd_main_span1">
-					<a href="#" class="gd_main_a1"><img src="images/lizi_img007.jpg" /></a>
-					<a href="#" class="gd_main_a2">+详情点击</a>
-				</div>
-			</div>
-			<div class="gd_main_div">
-				<div class="gd_main_span1">
-					<a href="#" class="gd_main_a1"><img src="images/lizi_img007.jpg" /></a>
-					<a href="#" class="gd_main_a2">+详情点击</a>
-				</div>
-				<div class="gd_main_span1">
-					<a href="#" class="gd_main_a1"><img src="images/lizi_img007.jpg" /></a>
-					<a href="#" class="gd_main_a2">+详情点击</a>
-				</div>
-				<div class="gd_main_span1">
-					<a href="#" class="gd_main_a1"><img src="images/lizi_img007.jpg" /></a>
-					<a href="#" class="gd_main_a2">+详情点击</a>
-				</div>
-				<div class="gd_main_span1">
-					<a href="#" class="gd_main_a1"><img src="images/lizi_img007.jpg" /></a>
-					<a href="#" class="gd_main_a2">+详情点击</a>
-				</div>
-			</div>
-
-		</div>
-	</div>
-</div>
-<div class="w-1000">
-	<h1 class="pt-15">大标题</h1>
-	<h2 class="pb-15">小标题</h2>
-	<div id="demo" class="demo">
-		<div id="indemo" class="indemo">
-			<div id="demo1" class="demo1">
-				<a href="case.asp"><img src="images/ewm.jpg" border="0" /></a>
-				<a href="case.asp"><img src="images/ewm.jpg" border="0" /></a>
-				<a href="case.asp"><img src="images/ewm.jpg" border="0" /></a>
-				<a href="case.asp"><img src="images/ewm.jpg" border="0" /></a>
-				<a href="case.asp"><img src="images/ewm.jpg" border="0" /></a>
-			</div>
-			<div id="demo2" class="demo2"></div>
-		</div>
-	</div>
-</div>
-<div class="w-1000">
-	<h1 class="pt-15">新闻资讯</h1>
-	<h2 class="pb-15">News information</h2>
-	<div class="news mr-15 mb-10">
-		<h3>公司新闻__</h3>
-		<img src="images/banner1.jpg" alt="" />
-		<ul>
-			<li><i></i>
-				<a href="">公司新闻</a><span>[7/11]</span></li>
-			<li><i></i>
-				<a href="">公司新闻</a><span>[7/11]</span></li>
-			<li><i></i>
-				<a href="">公司新闻</a><span>[7/11]</span></li>
-			<li><i></i>
-				<a href="">公司新闻</a><span>[7/11]</span></li>
-		</ul>
-	</div>
-	<div class="news mr-15">
-		<h3 class="h3">公司新闻__</h3>
-		<img src="images/banner1.jpg" alt="" />
-		<ul>
-			<li><i></i>
-				<a href="">公司新闻</a><span>[7/11]</span></li>
-			<li><i></i>
-				<a href="">公司新闻</a><span>[7/11]</span></li>
-			<li><i></i>
-				<a href="">公司新闻</a><span>[7/11]</span></li>
-			<li><i></i>
-				<a href="">公司新闻</a><span>[7/11]</span></li>
-		</ul>
-	</div>
-	<div class="news">
-		<h3 class="h3">公司新闻__</h3>
-		<img src="images/banner1.jpg" alt="" />
-		<ul>
-			<li><i></i>
-				<a href="">公司新闻</a><span>[7/11]</span></li>
-			<li><i></i>
-				<a href="">公司新闻</a><span>[7/11]</span></li>
-			<li><i></i>
-				<a href="">公司新闻</a><span>[7/11]</span></li>
-			<li><i></i>
-				<a href="">公司新闻</a><span>[7/11]</span></li>
-		</ul>
-	</div>
-</div>
-<div class="link">
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-	<a href="">友情链接</a>
-</div>
-<div class="bottom">
 	<div class="w-1000">
-		<div class="bot1">
-			<h3>关于我们</h3>
-			<h4>product</h4>
-			<ul>
-				<li>
-					<a href="">关于我们</a>
-				</li>
-				<li>
-					<a href="">关于我们</a>
-				</li>
-				<li>
-					<a href="">关于我们</a>
-				</li>
-				<li>
-					<a href="">关于我们</a>
-				</li>
-			</ul>
+		<div class="xz">
+			<a href="">
+				<img src="images/xz1_23.jpg" alt="" />
+				<p>高级定制西装</p>
+			</a>
 		</div>
-		<div class="bot1">
-			<h3>关于我们</h3>
-			<h4>product</h4>
-			<ul>
-				<li>
-					<a href="">关于我们</a>
-				</li>
-				<li>
-					<a href="">关于我们</a>
-				</li>
-				<li>
-					<a href="">关于我们</a>
-				</li>
-				<li>
-					<a href="">关于我们</a>
-				</li>
-			</ul>
+		<div class="xz">
+			<a href="">
+				<img src="images/xz2_23.jpg" alt="" />
+				<p>衬衣定制</p>
+			</a>
 		</div>
-		<div class="ewm"><img src="images/ewm.jpg" alt="二维码" />
-			<p>扫一扫关注我们</p>
+		<div class="xz">
+			<a href="">
+				<img src="images/xz3_23.jpg" alt="" />
+				<p>冲锋衣定制</p>
+			</a>
+		</div>
+		<div class="xz">
+			<a href="">
+				<img src="images/xz4_23.jpg" alt="" />
+				<p>职业正装</p>
+			</a>
+		</div>
+		<div class="xz">
+			<a href="">
+				<img src="images/xz5_23.jpg" alt="" />
+				<p>工作服定制</p>
+			</a>
+		</div>
+		<div class="xz">
+			<a href="">
+				<img src="images/xz6_23.jpg" alt="" />
+				<p>广告衫定制</p>
+			</a>
+		</div>
+		<div class="xz">
+			<a href="">
+				<img src="images/xz7_23.jpg" alt="" />
+				<p>校服定制</p>
+			</a>
+		</div>
+		<div class="xz">
+			<a href="">
+				<img src="images/xz8_23.jpg" alt="" />
+				<p>衬棒球服定制</p>
+			</a>
+		</div>
+		<div class="xz">
+			<a href="">
+				<img src="images/xz9_23.jpg" alt="" />
+				<p>大型活动文化衫</p>
+			</a>
+		</div>
+		<div class="xz">
+			<a href="">
+				<img src="images/xz10_23.jpg" alt="" />
+				<p>冬季保暖卫衣</p>
+			</a>
+		</div>
+		<div class="xz">
+			<a href="">
+				<img src="images/xz11_23.jpg" alt="" />
+				<p>皮肤风衣定做</p>
+			</a>
+		</div>
+		<div class="xz">
+			<a href="">
+				<img src="images/xz12_23.jpg" alt="" />
+				<p>志愿者义工马甲</p>
+			</a>
 		</div>
 	</div>
 </div>
-<div class="bottom1">
+<div style="background: url(images/jz_26.jpg) no-repeat center;height: 113px;margin: 20px 0;"></div>
+<div class="w-1000">
+	<img src="images/qx_29.jpg" alt="" style="margin: 40px auto;"/>
+</div>
+<div style="background: url(images/hb_32.jpg) no-repeat center;height: 130px;margin: 20px 0;"></div>
+<div class="w-1000">
+	<img src="images/ca_35.jpg" alt="" style="margin: 40px auto;"/>
+</div>
+<div style="background: #e8e8e8;padding: 40px 0;">
 	<div class="w-1000">
-		<p class="bot-p1">
-			版权所有 2015-2018 京ICP备15019436号-2 陕西居安之家锁业有限公司 <br /> 地址：西安市未央区未央路利君V时代A座16层 24小时开锁热线：40000-10000 （4万1万号）<br /> 技术支持：
-			<a href="http://bapingyun.com/">北京霸屏科技</a>
-		</p>
-		<p class="bot-p2">
-			<a href="">诚征媒体合作</a>>>
-			<a href="">征求友情链接</a>>>
-			<a href="">合作商家列表</a>>><br> 合作机构：
-			<a href="">百度</a>
-			<a href="">阿里巴巴</a>
-			<a href="">淘宝</a>
-			<a href="">京东</a><br>
-			<a href="">百度糯米</a>
-		</p>
-		<div class="cnzz">
-			<a href=""><img src="http://icon.cnzz.com/img/pic1.gif" alt="" /></a>
-			<a href=""><img src="http://eiv.baidu.com/hmt/icon/21.gif" alt="" /></a>
-			<a href=""><i><img src="images/201603141141170.png" alt="" /></i><span>京公网安备xxxxx号</span></a>
+		<img src="images/sw_39.jpg" alt="" />
+	</div>
+</div>
+<div class="w-1000">
+	<img src="images/tl_43.jpg" alt="" style="margin: 80px 0;"/>
+</div>
+<div class="w-1000">
+	<div class="title">
+		<h1>走进正职帮</h1>
+		<h2>感谢客户选择了我们，在未来的时间里我们会为您更好的服务！</h2>
+	</div>
+	<div class="w-1000 pc-20">
+		<img src="images/ab_47.jpg" alt=""  style="width: 412px;float: left;"/>
+		<div style="width: 550px;float: right;margin-bottom: 20px;">
+			<h3 style="font-size: 18px;">西安正职帮服饰有限公司</h3>
+			<p style="font-size: 16px;line-height: 32px;padding: 10px 0;">西安正职帮服饰有限公司是中国一个团体服装一站式定制机构与时尚职业装快时尚品。业务模式为时下最先进的 O2O模式，在每个省会城市都会有一家专业为企业解决统一着装需求的办公室门店。西安博溢电子商务始于2007年， 一直致力于互联网电子商务领域。正职帮创立于2012年，是一家互联网O2O本地化运营理念的品牌服装定制。主要将 业务分开为两块团体服装需求定制与时尚职业服装快销。</p>
+			<a href="" style="background: #f44623;color:#fff;display: inline-block;border-radius: 2px;padding: 5px 20px;">查看更多+</a>
 		</div>
 	</div>
 </div>
-<div class="qq"></div>
+<div class="w-1000 pc-20">
+	<div class="title">
+		<h1>选择正职帮就是选择放心</h1>
+		<h2>正职帮公司实力雄厚、潜力非凡的整体团队，旨为中国服装定制提供最优质的服务。</h2>
+	</div>
+	<img src="images/sas_47.jpg" alt=""  style="margin: 30px auto;"/>
+</div>
+
 <!--#include file="bottom.asp"-->
