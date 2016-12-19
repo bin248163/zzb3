@@ -24,13 +24,16 @@
 	</head>
 
 	<body>
-		<div class="header">
-			<div class="logo">
-				<a href="index.asp"><img src="images/logo.jpg" alt="logo" /></a>
+		<div class="header_w">
+			<div class="header">
+				<div class="logo">
+					<a href="index.asp"><img src="images/logo_05.jpg" alt="logo" /></a>
+				</div>
+				<div class="logo-r"><img src="images/logor_05.jpg" alt="" /></div>
+				<div class="tel"><img src="images/tel_11.jpg" alt="" /></div>
 			</div>
-			<div class="logo-r"></div>
-			<div class="tel"></div>
 		</div>
+<div class="w-100">
 		<div class="w-nav">
 			<div class="nav" id="nav">
 				<ul>
@@ -38,15 +41,34 @@
 						<a href="index.asp" class="this">首页</a>
 					</li>
 					<li>
-						<a href="index.asp">公司简介</a>
-						<ul>
-							<li>
-								<a href="">123</a>
-							</li>
-							<li>
-								<a href="">456</a>
-							</li>
-						</ul>
+						<a href="index.asp">高端定制西装</a>
+					</li>
+					<li>
+						<a href="">衬衣定制</a>
+					</li>
+					<li>
+						<a href="">职业正装</a>
+					</li>
+					<li>
+						<a href="">冲锋衣定制</a>
+					</li>
+					<li>
+						<a href="">工作服定制</a>
+					</li>
+					<li>
+						<a href="">校服定制</a>
+					</li>
+					<li>
+						<a href="">广告衫短袖T恤</a>
+					</li>
+					<li>
+						<a href="">设计师品牌 </a>
+					</li>
+					<li>
+						<a href="">关于正职帮</a>
+					</li>
+					<li>
+						<a href="">联系正职帮</a>
 					</li>
 				</ul>
 			</div>

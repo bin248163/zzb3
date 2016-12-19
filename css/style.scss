@@ -4,13 +4,13 @@ Author:  前小端
 Author url: http://www.qianxiaoduan.com/
 */
 @import "Globalstyle.scss";//插入外部文件：全局样式
-$color:#0078d7;//定义全局主色
+$color:#e3262c;//定义全局主色
 $bj:#eee;//定义页面灰色背景
 $width:1000px;//定义网站宽度
-$banner:480px;//banner高度
+$banner:733px;//banner高度
 $left:200px;//首页左边栏宽度
 $n-left:200px;//内页左边栏宽度
-$nav-num:8;//导航个数
+$nav-num:11;//导航个数
 $nav-bj:#777;//导航背景颜色
 $tab-left-bj:#d5d5d5;//首页tab左侧背景颜色
 
@@ -43,44 +43,30 @@ transform: skewx(-25deg);-o-transform: skewx(-25deg);-moz-transform: skewx(-25de
 a{text-decoration:none;color:#444;
     &:hover{color: $color;}
 }
-.w-100{width: 100%;overflow: hidden;min-width: $width;}
+.w-100{width: 100%;overflow: hidden;min-width: $width;position: relative;}
 .w-100b{width: 100%;overflow: hidden;min-width: $width;background: $bj;}
 .n-100{width: 100%;overflow: hidden;letter-spacing:-3px; font-size:0;}
 .w-1000{width: $width;margin: 0 auto;overflow: hidden;position: relative;}//内容宽度
-.logo{float: left;padding: 10px 0;width: 200px;}
-.logo-r{float: left;padding-left: 50px;}
-.tel{float: right;}//页面顶部联系电话
+.logo{float: left;padding: 100px 0 0 0;width: 339px;}
+.logo-r{float: left;padding-left: 220px;padding-top: 70px;}
+.tel{float: right;padding-top: 100px;}//页面顶部联系电话
 .n-left{width: $n-left;float: left;padding-right: 10px;}//内页左侧
 .n-right{width: $width -($n-left +10px);float: left;}//内页右侧
 
-//标题部分
-h1{text-align: center;font-size: 25px;line-height: 40px;color: $color;}//首页栏目标题
-h2{text-align: center;font-size: 16px;line-height: 25px;}//首页栏目下方栏目介绍标题
-h3{font-size: 16px;line-height: 35px;color: $color;}//首页子栏目标题
-h4{font-size: 16px;line-height: 20px;color: #fff;}//底部导航标题
-h5{font-size: 11px;line-height: 15px;color: $color;color: #fff;@include en;}
 
 //header部分
-.header{width: $width;padding: 10px 0;overflow: hidden;margin: auto;}
+.header_w{background: url(../images/header_b_01.jpg);height: 248px;}
+.header{width: 1180px;padding: 10px 0;overflow: hidden;margin: auto;}
 
 //导航部分
-.w-nav{width: 100%;background:$nav-bj;min-width:$width;}
-.nav{width: $width;margin: auto;height: 50px;line-height: 50px;
+.w-nav{width: 100%;background:rgba(0,0,0,.17);position: absolute;top: 0;left: 0;z-index: 999;height: 60px;}
+.nav{width:1180px;margin: auto;height: 60px;line-height: 60px;
     ul{
         li{float: left;position: relative;text-align: center;position: relative;
-            a{font-size: 15px;width: $width/$nav-num;display: block; color: #fff;@include hover(.3s);height:100%;}
-            ul{width: 100%;display: none;position: absolute;overflow: hidden;z-index: 9;background:#333;opacity: 0.8;filter: alpha(opacity=80);display:none;
-                li{height: 40px;width: 100%;line-height: 40px;
-                    a{height: 40px;width: 100%;}
-                    &:hover{background: #222;}
-                }
-            }
-            &:hover{
-                a{background: #666;background: rgba(0,0,0,.3);}
-                ul{display: block}
-            }
+            a{font-size: 15px;width: 1180px / $nav-num;display: block; color: #fff;@include hover(.3s);height:100%}
+            &:hover{a{background:$color;padding-bottom: 10px;}}
         } 
-        li.this{a{background: #666;background: rgba(0,0,0,.3);}}
+        li.this{a{background:$color;}}
     } 
 }
 

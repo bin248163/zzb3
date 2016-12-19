@@ -1,9 +1,9 @@
 <!--#include file="top.asp"-->
-<div class="w-100">
+
 	<div id="banner_tabs" class="flexslider">
 		<ul class="slides">
 			<li>
-				<a href="#"><img style="background: url(images/banner1.jpg) no-repeat center;" /></a>
+				<a href="#"><img style="background: url(images/banner1_16.jpg) no-repeat center;" /></a>
 			</li>
 			<li>
 				<a href="#"><img style="background: url(images/banner2.jpg) no-repeat center;" /></a>
