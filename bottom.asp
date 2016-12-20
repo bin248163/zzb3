@@ -41,7 +41,7 @@
 乘车路线：乘坐地铁2号线钟楼站下A出口（星巴克左手边进） <br />
 电话：029-87361006 <br />
 QQ:305420666 996701888<br />
-E-mail:zzb@126.com
+E-mail:996701888@qq.com 
 			</p>
 		</div>
 		<div class="bot1 mt-15 ml-20">
@@ -58,7 +58,7 @@ E-mail:zzb@126.com
 		<div class="bot1 mt-15 ml-20">
 			<h3 class="h4">联系我们</h3>
 			<p>
-				全国服务热线 ：400-800-5068<br />
+				全国服务热线 ：029-8736-1006<br />
 手机：13201469777
 
 			</p>
@@ -73,7 +73,7 @@ E-mail:zzb@126.com
 		<p class="bot-p1">
 		    <a href="about.asp">关于正职帮</a> | <a href="contact.asp">联系正职帮</a> | <a href="">媒体报道</a> | <a href="news.asp">正职帮资讯</a> | <a href="">正职帮官方微博</a> | <a href="">正职帮官方贴吧</a> | <a href="">正职帮淘宝旗舰店</a> <br />
 		       诚信网站 示范企业 可信网站 信用评价 网上交易 保障中心 <br />
-		       www.muzhigongchang.com 陕ICP备11020000-1号
+		    new.paopaoyin.com 陕ICP备11020000-1号
 	   </p>
 	    <div class="cnzz">
 		    <a href=""><img src="http://icon.cnzz.com/img/pic1.gif" alt="" /></a>
