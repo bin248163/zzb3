@@ -1,7 +1,7 @@
 @charset "utf-8";//设置此项才能编译通过有中文的注释的scss文件
 /*!
 Author:  前小端 
-Author url: http://blog.qianxiaoduan.com/
+Author url: http://blog.qianxiaoduan.com
 */
 @import "Globalstyle.scss";//插入外部文件：全局样式
 $color:#e3262c;//定义全局主色
@@ -162,11 +162,26 @@ a{text-decoration:none;color:#444;
 
 //首页下方新闻资讯
 .news{width:($width - 30px)/3;float: left;
-    ul{padding-top: 10px;
+    img{width: 100%;}
+    span{font-size: 16px;padding: 8px 0 5px;display: block;}
+    ul{
         li{width: 100%;overflow: hidden;font-size: 14px;line-height: 28px;height: 28px;
             i{width: 4px;float: left;height: 4px;background:#444444;border-radius: 4px;margin: 14px 6px 0 5px;}
             a{float: left;width: 70%;@include overflow;}
-            span{float: right;font-size: 12px;color: #777;}
+            span{float: right;font-size: 12px;color: #777;padding: 0;}
+            &:hover i{background: $color;}
+        }
+    }
+}
+.h3{font-size: 16px;}
+.news1{width:($width - 30px)/3;float: left;
+    img{width: 100%;}
+    span{font-size: 16px;padding: 8px 0 5px;display: block;}
+    ul{
+        li{width: 100%;overflow: hidden;font-size: 14px;line-height: 28px;
+            i{width: 15px;float: left;height: 15px;margin: 7px 6px 0 5px;}
+            a{float: left;width: 91%;}
+            span{float: right;font-size: 12px;color: #777;padding: 0;}
             &:hover i{background: $color;}
         }
     }
