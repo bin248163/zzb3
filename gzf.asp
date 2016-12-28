@@ -13,19 +13,17 @@
 	<img src="images/gzf1_03.jpg" alt="" />
 </div>
 <div class="w-1000">
-	<a href=""><img src="images/gd2_08.jpg" alt="" style="margin: 80px auto;" /></a>
+	<a href=""><img src="images/gzf2_06.jpg" alt="" style="margin: 80px auto;" /></a>
 </div>
+<div style="background: url(images/cfy8_26.jpg) no-repeat center;height: 330px;"></div>
 <div class="w-1000">
-	<img src="images/xj_03.jpg" alt=""  style="margin: 0 auto;"/>
+	<img src="images/gzf3_12.jpg" alt=""  style="margin: 60px 0 0;"/>
 </div>
+<div style="background: url(images/gzf4_15.jpg) no-repeat center;height: 488px;margin-top: 60px;"></div>
 <div class="w-1000">
-	<img src="images/hz_07.jpg" alt=""  style="margin: 60px auto;"/>
+	<img src="images/gzf5_17.jpg" alt=""  style="margin:0 auto 60px;"/>
 </div>
-<div class="title">
-	<h1>我们一直坚持品质至上追求</h1>
-	<p>每件衣服从缝制，纽扣，裁缝，<br />
-裁剪等工艺严格按照要求和质量把控。</p>
-</div>
+<div style="background: url(images/gzf5_20.jpg) no-repeat center;height: 738px;"></div>
 <div class="w-1000">
 	<img src="images/jd_11.jpg" alt=""  style="margin: 40px auto;"/>
 </div>
