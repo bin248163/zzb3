@@ -69,6 +69,9 @@ a{text-decoration:none;color:#444;
         li.this{a{background:$color;padding-bottom: 8px;}}
     } 
 }
+.hd{text-align: center;font-size: 24px;display: block;line-height: 40px;font-weight: normal;color: $color;background: url(../images/xd_07.jpg) no-repeat center center;margin-bottom: 20px;margin-top: 60px;
+    span{background: #262424;color: #fff;font-size: 18px;margin:0 5px;padding: 2px 5px;}
+}
 .ican{text-align: center;padding: 10px 0 30px;
     a{display: inline-block;padding:0 24px;font-size: 30px;line-height: 40px;color: #da8131;}
 }
@@ -128,14 +131,23 @@ a{text-decoration:none;color:#444;
         }
     }
 }
-
+.gyi{width: 356px;float: left;padding:0 10px 20px 0;}
+.js{float: right;width: 610px;
+    span{font-size: 16px;}
+    p{text-indent: 28px;padding-top: 5px;}
+    a{padding: 0 20px;color: #fff;margin:15px 20px 0;display: inline-block;}
+    .red{background: $color;}
+    .hui{background: #666;}
+}
 //点击滚动
-.gd{width:100%;height:auto;overflow:hidden;position:relative;}
+.gd{width:100%;height:auto;overflow:hidden;position:relative;
+    img{width: 100%;}
+}
 .gd_prev{height: 70px; font-size: 40px;line-height: 70px;position: absolute;top: 50%;left: 0;z-index: 9;font-family: "宋体";background: $color;color: #fff;cursor: pointer;margin-top: -35px;}
 .gd_next{height: 70px; font-size: 40px;line-height: 70px;position: absolute;top: 50%;right: 0;z-index: 9;font-family: "宋体";background: $color;color: #fff;cursor: pointer;margin-top: -35px;}
 .gd_main{width:10000px;overflow:hidden;position:relative;z-index:1;
-    .gd_main_div{width:$width;float:left;
-        div{width:calc((100% / 4) - 20px);padding:0 10px;display:block;float:left;
+    div{width:$width - 40px;float:left;padding:  0 20px;
+        span{width:(($width - 40px) / 4) - 20px;padding:0 10px;display:block;float:left;
             a{display:block;}
         }
     }
