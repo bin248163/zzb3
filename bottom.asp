@@ -73,7 +73,7 @@ E-mail:996701888@qq.com
 		<p class="bot-p1">
 		    <a href="about.asp">关于正职帮</a> | <a href="contact.asp">联系正职帮</a> | <a href="">媒体报道</a> | <a href="news.asp">正职帮资讯</a> | <a href="">正职帮官方微博</a> | <a href="">正职帮官方贴吧</a> | <a href="">正职帮淘宝旗舰店</a> <br />
 		       诚信网站 示范企业 可信网站 信用评价 网上交易 保障中心 <br />
-		    new.paopaoyin.com 陕ICP备11020000-1号
+		    new.paopaoyin.com 陕ICP备11020000-1号  &nbsp;&nbsp;&nbsp;技术支持：<a href="http://www.bapingyun.com/" target="_blank">霸屏科技</a>
 	   </p>
 	    <div class="cnzz">
 		    <a href=""><img src="http://icon.cnzz.com/img/pic1.gif" alt="" /></a>
