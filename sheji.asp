@@ -1,16 +1,27 @@
 <!--#include file="top.asp"-->
-	<img src="images/ggs_02.jpg" alt=""  style="width: 100%;"/>
-</div>
-<div class="title1">
-	<div class="ts" style="width: 100%;">
-		<div style="width: 1000px;margin: 0 auto;"><span>团体定制系列</span></div>
-	</div>
-	<div class="w-1000">
-		<p>Group customization</p>
-	</div>
+	<img src="images/sj_02.jpg" alt=""  style="width: 100%;"/>
 </div>
 <div class="w-1000">
-	<img src="images/ggs1_05.jpg" alt="" />
+	<p style="font-size: 59px;line-height: 90px;color: #787878;text-align: center;padding-top: 50px;">The original brand <br />正职帮 原创设计师品牌</p>
+	<p style="font-size: 34px;line-height: 50px;color: #787878;text-align: center;padding-bottom: 40px;">设计师量身定制</p>
+</div>
+
+<div class="w-1000">
+	<img src="images/sj1_05.jpg" alt="" />
+</div>
+<div class="w-1000" style="padding-top: 60px;">
+	<p style="height: 130px;background: #000;color: #fff;text-align: center;width: 50%;float: left;font-size: 48px;line-height: 130px;">正职帮服装定制</p>
+	<div style="height: 130px;background: #f2ecea;text-align: center;width: 50%;float: left;font-size: 48px;line-height: 130px;position: relative;">
+		客户来样定制
+	<p style="position: absolute;bottom: 10px;left: 0;width: 100%;font-size: 20px;text-align: center;line-height: 20px;">Customers to sample custom</p>
+	</div>
+</div>
+<div class="w-1000" style="padding-top: 60px;">
+	<p style="height: 130px;background: #000;color: #fff;text-align: center;width: 50%;float: left;font-size: 48px;line-height: 130px;">正职帮服装定制</p>
+	<div style="height: 130px;background: #f2ecea;text-align: center;width: 50%;float: left;font-size: 48px;line-height: 130px;position: relative;">
+		设计师原创品牌
+	<p style="position: absolute;bottom: 10px;left: 0;width: 100%;font-size: 20px;text-align: center;line-height: 20px;">The original designer brands</p>
+	</div>
 </div>
 <div class="w-1000">
 	<img src="images/ggs2_08.jpg" alt=""  style="margin: 60px auto;"/>
@@ -115,6 +126,14 @@
 <div class="w-1000">
 	<img src="images/ggs6_22.jpg" alt=""  style="margin: 40px auto;"/>
 </div>
+<div style="background: url(images/xf4_15.jpg) no-repeat center;height: 373px;"></div>
+<div class="w-1000">
+	<a href=""><img src="images/xf5_18.jpg" alt=""  style="margin: 60px auto 0;"/></a>	
+</div>
+<div class="w-1000">
+	<img src="images/cfy7_23.jpg" alt=""  style="margin: 60px auto;"/>
+</div>
+<div style="background: url(images/xf6_21.jpg) no-repeat center;height: 520px;"></div>
 <div style="background: url(images/dt_24.jpg) no-repeat center;height: 739px;margin-top: 60px;"></div>
 <div class="w-1000">
 	<a href=""><img src="images/lc_27.jpg" alt=""  style="margin: 0 auto;"/></a>
@@ -213,5 +232,5 @@ function curNav(num){
 	var nav=$('#nav ul li');
 	nav.eq(num).addClass('this');
 }
-    curNav(7);
+    curNav(8);
 </script>
