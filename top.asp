@@ -59,7 +59,7 @@
 						<a href="xiaofu.asp">校服定制</a>
 					</li>
 					<li>
-						<a href="">广告衫短袖T恤</a>
+						<a href="ggs.asp">广告衫短袖T恤</a>
 					</li>
 					<li>
 						<a href="">设计师品牌 </a>
