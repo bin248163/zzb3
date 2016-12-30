@@ -29,7 +29,7 @@
 				<div class="logo">
 					<a href="index.asp"><img src="images/logo_05.jpg" alt="logo" /></a>
 				</div>
-				<div class="logo-r"><img src="images/logor_05.jpg" alt="" /></div>
+				<div class="logo-r"><a href="index.asp"><img src="images/logor_05.jpg" alt="" /></a></div>
 				<div class="tel"><img src="images/tel_11.jpg" alt="" /></div>
 			</div>
 		</div>
@@ -68,7 +68,7 @@
 						<a href="about.asp">关于正职帮</a>
 					</li>
 					<li>
-						<a href="">联系正职帮</a>
+						<a href="contact.asp">联系正职帮</a>
 					</li>
 				</ul>
 			</div>

@@ -28,7 +28,60 @@ $(function() {
 	$('#banner_tabs .flex-next').click(function() {
 		bannerSlider.next()
 	});
+	
+	//about
+	var $ppai=$('#ppai'),
+	    $jjie=$('#jjie'),
+	    $whua=$('#whua'),
+	    $tdui=$('#tdui'),
+	    $jshao=$('#jshao'),
+	    $lnian=$('#lnian'),
+	    $lxi=$('#lxi'),
+	    $ppain=$('#ppain'),
+	    $jjien=$('#jjien'),
+	    $whuan=$('#whuan'),
+	    $tduin=$('#tduin'),
+	    $jshaon=$('#jshaon'),
+	    $lniann=$('#lniann'),
+	    $lxin=$('#lxin');
+	$ppai.click(function(){
+		 var scroll_offset = $ppain.offset();
+		   $("body,html").animate({ scrollTop:scroll_offset.top },500);
+         return false;
+    });
+    $jjie.click(function(){
+		 var scroll_offset = $jjien.offset();
+		   $("body,html").animate({ scrollTop:scroll_offset.top },500);
+         return false;
+    });
+    $whua.click(function(){
+		 var scroll_offset = $whuan.offset();
+		   $("body,html").animate({ scrollTop:scroll_offset.top },500);
+         return false;
+    });
+    $tdui.click(function(){
+		 var scroll_offset = $tduin.offset();
+		   $("body,html").animate({ scrollTop:scroll_offset.top },500);
+         return false;
+    });
+    $jshao.click(function(){
+		 var scroll_offset = $jshaon.offset();
+		   $("body,html").animate({ scrollTop:scroll_offset.top },500);
+         return false;
+    });
+    $lnian.click(function(){
+		 var scroll_offset = $lniann.offset();
+		   $("body,html").animate({ scrollTop:scroll_offset.top },500);
+         return false;
+    });
+    $lxi.click(function(){
+		 var scroll_offset = $lxin.offset();
+		   $("body,html").animate({ scrollTop:scroll_offset.top },500);
+         return false;
+    });
 
+	
+	
 	//左右滚动
 	$(".gd_main div span").mouseover(function(){
 		$(this).addClass("gd_main_span1").siblings("span").removeClass("gd_main_span1");

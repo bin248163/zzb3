@@ -12,7 +12,6 @@
     				<li><i></i><a href="" id="tdui">我们团队</a></li>
     				<li><i></i><a href="" id="jshao">品牌介绍</a></li>
     				<li><i></i><a href="" id="lnian">设计理念</a></li>
-    				<li><i></i><a href="news.asp">新闻资讯</a></li>
     				<li><i></i><a href="" id="lxi">联系我们</a></li>
     			</ul>
     		</div>
@@ -103,7 +102,7 @@
 销策略是成功打入市场的关键之一。 
     	    	</p>
     	    	<span id="lxin">联系我们</span>
-    	    	<div class="abi">
+    	    	<div class="abi" style="margin-bottom: 40px;">
     	    		<img src="images/ab4_15.jpg" alt="" />
     	    	</div>
     	    </div>
