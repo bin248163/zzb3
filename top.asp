@@ -62,10 +62,10 @@
 						<a href="ggs.asp">广告衫短袖T恤</a>
 					</li>
 					<li>
-						<a href="">设计师品牌 </a>
+						<a href="sheji.asp">设计师品牌 </a>
 					</li>
 					<li>
-						<a href="">关于正职帮</a>
+						<a href="about.asp">关于正职帮</a>
 					</li>
 					<li>
 						<a href="">联系正职帮</a>
