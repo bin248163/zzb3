@@ -37,7 +37,7 @@
 			<p>
 				西安正职帮服饰有限公司 <br />
 地址：北大街与西华门交叉口宏府嘉会广场 <br />
-正职帮团定部（B座11038室）  正职帮全品类展厅（B座12014-12015） <br />
+B座11038室<br />
 乘车路线：乘坐地铁2号线钟楼站下A出口（星巴克左手边进） <br />
 电话：029-87361006 <br />
 QQ:305420666 996701888<br />
@@ -52,7 +52,7 @@ E-mail:996701888@qq.com
 账号：1299 0655 4710 105<br />
 财务总监账号：宋巧眉 <br />
 开户行：招商银行 <br />
-账号：6225 8829 0818 8888
+账号：6225 8829 081 88888
 			</p>
 		</div>
 		<div class="bot1 mt-15 ml-20">
@@ -73,7 +73,7 @@ E-mail:996701888@qq.com
 		<p class="bot-p1">
 		    <a href="about.asp">关于正职帮</a> | <a href="contact.asp">联系正职帮</a> | <a href="">媒体报道</a> | <a href="news.asp">正职帮资讯</a> | <a href="">正职帮官方微博</a> | <a href="">正职帮官方贴吧</a> | <a href="">正职帮淘宝旗舰店</a> <br />
 		       诚信网站 示范企业 可信网站 信用评价 网上交易 保障中心 <br />
-		    new.paopaoyin.com 陕ICP备11020000-1号  &nbsp;&nbsp;&nbsp;技术支持：<a href="http://www.bapingyun.com/" target="_blank">霸屏科技</a>
+		    西安正职帮服饰有限公司   网站备案/许可证号 陕ICP备16010721号-1  &nbsp;&nbsp;&nbsp;技术支持：<a href="http://www.bapingyun.com/" target="_blank">霸屏科技</a>
 	   </p>
 	    <div class="cnzz">
 		    <a href=""><img src="http://icon.cnzz.com/img/pic1.gif" alt="" /></a>
