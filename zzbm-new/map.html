@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html style="height: 100%;">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>西安广告衫_西安文化衫_西安T恤定做泡泡网印刷平台，西安文化衫定做,西安文化衫定制,西安广告衫定做,西安t恤衫，西安班服定做,短袖t恤定做,衣服印字</title>
+		<meta name="description" content="西安正职帮服饰定做工厂旗下泡泡印T恤 电话:13201469777 座机:029-87361006 提供西安广告衫,西安文化衫,T恤印字，T恤定做，T恤定制，广告帽，广告伞，文化衫，广告衫" />
+		<meta name="keywords" content="泡泡印，短袖t恤定制,西安广告衫,文化衫,陕西t恤定做,广告衫,西安文化衫,文化衫定做,广告衫定做,衣服印字,西安文化衫，文化衫印字，广告衫印字，文化衫定制，广告衫定制，t恤定制，t恤定做" />
+		<link href="images/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<style>
+		*{margin: 0;padding: 0;}
+		body{height: 100%;}
+			#allmap{width:100%;height:100%;}
+			.fh11{border: 3px solid #fff;text-decoration:none;display:block;text-align: center; width: 40px;border-radius: 50%; height: 40px;line-height: 40px;background: #ff6700;color: #fff;position: fixed;right:20px;bottom: 20px;z-index: 9999;}
+		    .fh11:visited{color: #fff;}
+		</style>
+	</head>
+	<body>
+		<a href="index.asp" class="fh11">返回</a>
+		<div id="allmap">
+		<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=ZvyKSBDCS8gbej9jDpVROVeHXNNZnAfi"></script>
+<script type="text/javascript">
+	// 百度地图API功能
+	var map = new BMap.Map("allmap");    // 创建Map实例
+	map.centerAndZoom(new BMap.Point(108.95228,34.2683), 18);  // 初始化地图,设置中心点坐标和地图级别
+	map.addControl(new BMap.MapTypeControl());   //添加地图类型控件
+	map.setCurrentCity("西安");          // 设置地图显示的城市 此项是必须设置的
+	map.enableScrollWheelZoom(true);  //开启鼠标滚轮缩放
+	
+    var point = new BMap.Point(108.95225,34.26835);
+	var marker = new BMap.Marker(point);  // 创建标注
+	map.addOverlay(marker);              // 将标注添加到地图中
+
+	var label = new BMap.Label("西安正职帮服饰有限公司",{offset:new BMap.Size(20,-10)});
+	marker.setLabel(label);
+
+	
+	 var navigationControl = new BMap.NavigationControl({
+    // 靠左上角位置
+    anchor: BMAP_ANCHOR_TOP_LEFT,
+    // LARGE类型
+    type: BMAP_NAVIGATION_CONTROL_LARGE,
+    // 启用显示定位
+    enableGeolocation: true
+  });
+  map.addControl(navigationControl);
+  // 添加定位控件
+  var geolocationControl = new BMap.GeolocationControl();
+  geolocationControl.addEventListener("locationSuccess", function(e){
+    // 定位成功事件
+    var address = '';
+    address += e.addressComponent.province;
+    address += e.addressComponent.city;
+    address += e.addressComponent.district;
+    address += e.addressComponent.street;
+    address += e.addressComponent.streetNumber;
+    alert("当前定位地址为：" + address);
+  });
+  geolocationControl.addEventListener("locationError",function(e){
+    // 定位失败事件
+    alert(e.message);
+  });
+  map.addControl(geolocationControl);
+</script>
+	</body>
+</html>
