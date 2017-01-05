@@ -1,3 +1,5 @@
+console.log('%c霸屏科技\n真正做事，对结果负责','color:#444');
+console.log('%chttp://bapingyun.com/','color:#f00');
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");

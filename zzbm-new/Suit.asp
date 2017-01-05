@@ -16,7 +16,7 @@
 		<span>Custom suits</span>
 	</div>
 	<img src="images/su1_04.jpg" alt="" />
-	<a href=""><img src="images/su2_06.jpg" alt="" style="padding: 2rem 0;" /></a>
+	<a href="tel:4008005068"><img src="images/su2_06.jpg" alt="" style="padding: 2rem 0;" /></a>
 	<div class="ntt">
 		<h1>西 装 <span>细 节</span></h1>
 		<h2>Suit details</h2>
