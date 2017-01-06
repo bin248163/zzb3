@@ -9,95 +9,18 @@
 	    	</a>
 	    </div>
 	    <div class="content">
-	    	<div class="n-banner" style="background-image: url(images/banner9_02.jpg);"></div>
+	    	<div><img src="images/gzf_02.jpg" alt="" style="width: 100%;" /></div>
 	    	<div class="n-tit">
 	    		<h1>工作服定制 </h1>
 	    		<span>Custom tailor</span>
 	    	</div>
-	    		<img src="images/gzfs_05.jpg" alt="" />
-	    	
-	    	<div class="n-con">
-				<div class="span-33">
-					<img src="images/gzf1_03.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-				<div class="span-33">
-					<img src="images/gzf2_03.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-				<div class="span-33">
-					<img src="images/gzf3_03.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-				<div class="span-33">
-					<img src="images/gzf4_03.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-				<div class="span-33">
-					<img src="images/gzf5_03.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-				<div class="span-33">
-					<img src="images/gzf6_03.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-			</div>
-	    	<img src="images/gzfz_06.jpg" alt="" />
-	    	<div class="n-con">
-				<div class="span-33">
-					<img src="images/gzf7_09.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-				<div class="span-33">
-					<img src="images/gzf8_09.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-				<div class="span-33">
-					<img src="images/gzf9_09.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-				<div class="span-33">
-					<img src="images/gzf10_09.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-				<div class="span-33">
-					<img src="images/gzf11_09.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-				<div class="span-33">
-					<img src="images/gzf12_09.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-			</div>
-			<img src="images/gzfx_12.jpg" alt="" />
-	    	<div class="n-con">
-				<div class="span-33">
-					<img src="images/gzf13_15.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-				<div class="span-33">
-					<img src="images/gzf14_15.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-				<div class="span-33">
-					<img src="images/gzf15_15.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-				<div class="span-33">
-					<img src="images/gzf16_15.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-				<div class="span-33">
-					<img src="images/gzf17_15.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-				<div class="span-33">
-					<img src="images/gzf18_15.jpg" alt="" />
-					<a href="tel:4008005068">立即咨询</a>
-				</div>
-			</div>
+	    	<img src="images/gzf1_04.jpg" alt="" />
+	    	<a href="tel:4008005068"><img src="images/gzf2_06.jpg" alt="" style="margin: 1rem 0;"/></a>
+	    	<img src="images/gzf3_08.jpg" alt="" />
+	    	<img src="images/gzf4_10.jpg" alt=""  style="margin: 1rem 0;"/>
+	    	<img src="images/hh1_12.jpg" alt="" />
+	    	<img src="images/hh2_13.jpg" alt="" />
 	    	
 	    	
-	    	<a href="tel:4008005068" class="dh-x"><img src="images/dh-x_26.jpg" alt="" /></a>
 	    	
 <!--#include file="bottom.asp"-->

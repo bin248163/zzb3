@@ -36,7 +36,7 @@
 		</a>
 		<a class="nav" href="lady.asp">
 			<i><img src="images/i8_05.jpg" alt="" /></i>
-			<span>女士职业装</span>
+			<span>冲锋衣定制</span>
 		</a>
 		<a class="nav" href="shirt.asp">
 			<i><img src="images/i3_05.jpg" alt="" /></i>

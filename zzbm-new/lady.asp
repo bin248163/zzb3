@@ -17,12 +17,8 @@
 	</div>
 	<img src="images/cfy2_04.jpg" alt="" />
 	<a href="tel:4008005068"><img src="images/cfy2_06.jpg" alt="" style="margin: 1rem 0;"/></a>
-	
-	
-	<img src="images/su4_10.jpg" alt="" />
-	
-	<a href="tel:4008005068"><img src="images/cfy3_08.jpg" alt="" style="margin: 1rem 0;"/></a>
-	
+	<img src="images/su4_10.jpg" alt="" />	
+	<a href="tel:4008005068"><img src="images/cfy3_08.jpg" alt="" style="margin: 1rem 0;"/></a>	
 	<a href="tel:4008005068"><img src="images/bx_10.jpg" alt=""/></a>
 	<img src="images/gc1_11.jpg" alt="" />
 	<img src="images/gc2_13.jpg" alt="" style="margin: 1rem 0;"/>
