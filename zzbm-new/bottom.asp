@@ -63,11 +63,11 @@
 </div>
 </div>
 <div class="bottom">
-	<a href="tel:13201469777" class="bottom-l">
+	<a href="tel:4008005068" class="bottom-l">
 		<i class="iconfont red hd">&#xe603;</i>
 		<span class="red">电话咨询</span>
 	</a>
-	<a href="sms:13201469777" class="bottom-l">
+	<a href="sms:4008005068" class="bottom-l">
 		<i class="iconfont">&#xe60b;</i>
 		<span>短信咨询</span>
 	</a>

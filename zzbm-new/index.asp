@@ -44,7 +44,7 @@
 		</a>
 		<a class="nav" href="Overcoat.asp">
 			<i><img src="images/i4_05.jpg" alt="" /></i>
-			<span>大衣定制</span>
+			<span>正装工作服</span>
 		</a>
 		<a class="nav" href="Coverall.asp">
 			<i><img src="images/i7_03.jpg" alt="" /></i>
