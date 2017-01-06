@@ -28,6 +28,6 @@
 	
 	<img src="images/lt1_12.jpg" alt="" />
 	<img src="images/lt1_14.jpg" alt=""  style="margin: 1rem 0;"/>
-	<a href="tel:4008005068" class="dh-x"><img src="images/dh-x_26.jpg" alt="" /></a>
+
 
 	<!--#include file="bottom.asp"-->

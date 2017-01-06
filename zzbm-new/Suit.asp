@@ -53,6 +53,6 @@
 		<img src="images/sa2_16.jpg" alt="" style="margin: 1rem 0;" />
 		<img src="images/sa3_18.jpg" alt="" />
 	</div>
-	<a href="tel:4008005068" class="dh-x"><img src="images/dh-x_26.jpg" alt="" /></a>
+
 
 	<!--#include file="bottom.asp"-->

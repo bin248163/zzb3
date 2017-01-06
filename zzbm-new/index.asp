@@ -162,50 +162,5 @@
 	</div>
 	<img src="images/sb_19.jpg" alt="" />
 	
-	<a href="tel:4008005068" class="dh-x"><img src="images/dh-x_26.jpg" alt="" /></a>
-	<div class="con">
-		<img src="images/dhdx_22.jpg" alt="" />
-	</div>
-	<div class="con">
-		<div class="zz">
-			<i><img src="images/zz1.png" alt="" /></i>
-			<p>
-				<span>专业</span> <br /> 免费量体
-				<br /> 专业团队
-				<br /> 品质护航
-			</p>
-		</div>
-		<div class="zz">
-			<i><img src="images/zz2.png" alt="" /></i>
-			<p>
-				<span>便捷</span><br /> 专属客服跟进
-				<br /> 有问题先解答
-				<br /> 服务到您满意
-			</p>
-		</div>
-		<div class="zz">
-			<i><img src="images/zz3.png" alt="" /></i>
-			<p>
-				<span>保障</span> <br /> 上千位服务人员
-				<br /> 为您呈现不一样
-				<br /> 服务
-			</p>
-		</div>
-	</div>
-	<div class="con">
-		<p class="hx">
-			<span>热门类别</span> <br />
-			<a href="product.asp">团体西服定制 </a>
-			<a href="cooperation.asp">团体衬衫定制</a>
-			<a href="cooperation.asp">团体呢大衣定制</a>
-		</p>
-	</div>
-	<div class="con">
-		<p class="hx">
-			<span>友情链接</span> <br />
-			<a href="product.asp">正职帮官方微博 </a>
-			<a href="cooperation.asp">正职帮淘宝旗舰店</a>
-		</p>
-	</div>
 
 	<!--#include file="bottom.asp"-->
