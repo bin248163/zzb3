@@ -34,7 +34,7 @@
     			<span>团体服装定制</span>
     			<p>为您打造完美着装</p>
     		</div>
-    		<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank" class="la"><img src="images/llj_03.jpg" alt="" /></a>
+    	
     		
     	</div>
     	<div class="n-right">

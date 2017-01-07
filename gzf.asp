@@ -38,8 +38,7 @@
 			<div class="js">
 				<span>西安正职帮服饰有限公司</span>
 				<p>西安正职帮服饰有限公司是中国一个团体服装一站式定制机构与时尚职业装快时尚品。业务模式为时下最先进的 O2O模式，在每个省会城市都会有一家专业为企业解决统一着装需求的办公室门店。西安博溢电子商务始于2007年， 一直致力于互联网电子商务领域。正职帮创立于2012年，是一家互联网O2O本地化运营理念的品牌服装定制。主要将 业务分开为两块团体服装需求定制与时尚职业服装快销。</p>
-				<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank" class="red">查看详情</a>
-				<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank" class="hui">查看荣誉资质</a>
+				<a href="contact.asp"  class="red">查看详情</a>
 			</div>
 		</div>
 		<div class="gd mc-15">

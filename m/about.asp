@@ -70,18 +70,7 @@
 		    	</p>
 		    	
 		    </div>
-		     <div class="con">
-		    	<p class="hx">
-		    		<span>核心竞争力</span> <br />
-		    		同质商品价格不同，同价商品质更优！
-		    	</p>
-		    </div>
-		    <div class="con">
-		    	<p class="hx">
-		    		<span>友情链接</span> <br />
-		    		<a href="">多嘴客罐头 </a> <a href="">罐头招商</a> <a href="">霸屏科技</a>
-		    	</p>
-		    </div>
+		     
 
 	    
 

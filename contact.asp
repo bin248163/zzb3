@@ -28,7 +28,7 @@
     			<span>团体服装定制</span>
     			<p>为您打造完美着装</p>
     		</div>
-    		<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank" class="la"><img src="images/llj_03.jpg" alt="" /></a>
+    	
     		
     	</div>
     	<div class="n-right">
@@ -50,7 +50,7 @@
 QQ:305420666 996701888<br />
 E-mail:zzb@126.com<br />
 地址：北大街与西华门交叉口宏府嘉会广场 <br />
-正职帮团定部（B座11038室）  正职帮全品类展厅（B座12014-12015） <br />
+B座12014-12015  <br />
 乘车路线：乘坐地铁2号线钟楼站下A出口（星巴克左手边进）
     	    	</p>
     	    	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank">公司地图</a>

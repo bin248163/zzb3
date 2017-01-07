@@ -13,7 +13,7 @@
 	<div><img src="images/cfy_02.jpg" alt="" style="width: 100%;" /></div>
 	<div class="n-tit">
 		<h1>冲锋衣定制</h1>
-		<span>Group customization</span>
+		<span>Custom suit</span>
 	</div>
 	<img src="images/cfy2_04.jpg" alt="" />
 	<a href="tel:4008005068"><img src="images/cfy2_06.jpg" alt="" style="margin: 1rem 0;"/></a>

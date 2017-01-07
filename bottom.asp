@@ -3,39 +3,39 @@
 		<div class="shd">
 			<i class="shi1"></i>
 			<span>上门服务</span>
-			<p>上门提供相应的服务</p>
+		
 		</div>
 		<div class="shd">
 			<i class="shi2"></i>
 			<span>完善的高端定制</span>
-			<p>上门提供相应的服务</p>
+		
 		</div>
 		<div class="shd">
 			<i class="shi3"></i>
 			<span>工期保证</span>
-			<p>按照规定的时间交付</p>
+		
 		</div>
 		<div class="shd">
 			<i class="shi4"></i>
 			<span>工厂考察</span>
-			<p>上门提供相应的服务</p>
+		
 		</div>
 		<div class="shd">
 			<i class="shi5"></i>
 			<span>品质保证</span>
-			<p>精湛的生产工艺</p>
+	
 		</div>
 		<div class="shd">
 			<i class="shi6"></i>
 			<span>售后服务</span>
-			<p>服务好每一个客户</p>
+		
 		</div>
 	</div>
 	<div class="w-1000">
 		<div class="bot1 mt-15">
 			<h3 class="h4">关于地址</h3>
 			<p>
-				西安正职帮服饰有限公司 <br /> 地址：北大街与西华门交叉口宏府嘉会广场 <br /> B座11038室
+				西安正职帮服饰有限公司 <br /> 地址：北大街与西华门交叉口宏府嘉会广场 <br /> B座12014-12015
 				<br /> 乘车路线：乘坐地铁2号线钟楼站下A出口（星巴克左手边进） <br /> 电话：029-87361006 <br /> QQ:305420666 996701888<br /> E-mail:996701888@qq.com
 			</p>
 		</div>

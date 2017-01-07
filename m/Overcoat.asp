@@ -13,7 +13,7 @@
 	<div><img src="images/cy_02.jpg" alt="" style="width: 100%;" /></div>
 	<div class="n-tit">
 		<h1>正装工作服</h1>
-		<span>Coat custom</span>
+		<span>Dress overalls</span>
 	</div>
 	<img src="images/zz1_02.jpg" alt="" />
 	<a href=""><img src="images/zz2_05.jpg" alt="" style="margin: 1rem 0;" /></a>
@@ -34,7 +34,7 @@
 	<div class="ntt">
 		<h1>100多道工序，23000针工艺控制</h1>
 		<p style="color: #444;font-size: 1.2rem;">从选择面料，出样，制版，剪裁，缝纫，细节调整。<br /> 后期综合修整和专家级人员的仔细筛选等环节，每一个
-			<br /> 环节都有十多道复杂工序，每一道工艺我们都精益求，
+			<br /> 环节都有十多道复杂工序，每一道工艺我们都精益求精，
 			<br /> 层层把关，力求每一件衣服都让消费者满意。
 		</p>
 	</div>

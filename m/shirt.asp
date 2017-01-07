@@ -13,7 +13,7 @@
 	<div><img src="images/cy_02.jpg" alt="" style="width: 100%;" /></div>
 	<div class="n-tit">
 		<h1>衬衫定制 </h1>
-		<span>Custom suits</span>
+		<span>Shirt Custom</span>
 	</div>
 	<img src="images/cy1_04.jpg" alt="" />
 	<a href="tel:4008005068"><img src="images/cy2_06.jpg" alt="" style="margin-top: 1rem;"/></a>
@@ -27,7 +27,7 @@
 	<img src="images/cy5_10.jpg" alt="" style="margin: 1rem 0;" />
 	
 	<img src="images/lt1_12.jpg" alt="" />
-	<img src="images/lt1_14.jpg" alt=""  style="margin: 1rem 0;"/>
+	<img src="images/gc2_13.jpg" alt=""  style="margin: 1rem 0;"/>
 
 
 	<!--#include file="bottom.asp"-->

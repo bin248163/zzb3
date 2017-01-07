@@ -155,6 +155,7 @@
 	</div>
 	<div class="con">
 		<img src="images/bs_14.jpg" alt="" />
+		<img src="images/gc2_13.jpg" alt="" style="margin: 1rem 0;"/>
 		<img src="images/bs1_02.jpg" alt="" />
 	</div>
 	<div class="con">
