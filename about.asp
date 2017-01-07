@@ -6,13 +6,13 @@
     		<div class="n-tab-left">
     			<span>关于正职帮</span>
     			<ul>
-    				<li><i></i><a href="" id="ppai">品牌介绍</a></li>
-    				<li><i></i><a href="" id="jjie">公司简介</a></li>
-    				<li><i></i><a href="" id="whua">公司文化</a></li>
-    				<li><i></i><a href="" id="tdui">我们团队</a></li>
-    				<li><i></i><a href="" id="jshao">品牌介绍</a></li>
-    				<li><i></i><a href="" id="lnian">设计理念</a></li>
-    				<li><i></i><a href="" id="lxi">联系我们</a></li>
+    				<li><i></i><a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank" id="ppai">品牌介绍</a></li>
+    				<li><i></i><a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank" id="jjie">公司简介</a></li>
+    				<li><i></i><a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank" id="whua">公司文化</a></li>
+    				<li><i></i><a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank" id="tdui">我们团队</a></li>
+    				<li><i></i><a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank" id="jshao">品牌介绍</a></li>
+    				<li><i></i><a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank" id="lnian">设计理念</a></li>
+    				<li><i></i><a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank" id="lxi">联系我们</a></li>
     			</ul>
     		</div>
     		<div class="dn">
@@ -34,7 +34,7 @@
     			<span>团体服装定制</span>
     			<p>为您打造完美着装</p>
     		</div>
-    		<a href="" class="la"><img src="images/llj_03.jpg" alt="" /></a>
+    		<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank" class="la"><img src="images/llj_03.jpg" alt="" /></a>
     		
     	</div>
     	<div class="n-right">
@@ -44,7 +44,7 @@
     			    <span>Contact Us</span>
     		    </div>
     		    <div class="ndh-r">
-    			您当前所在位置: <a href="">首页</a> - 联系我们
+    			您当前所在位置: <a href="index.asp">首页</a> - 联系我们
     		    </div>
     	    </div>
     	    <div class="n-ab">

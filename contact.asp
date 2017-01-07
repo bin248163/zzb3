@@ -6,7 +6,7 @@
     		<div class="n-tab-left">
     			<span>联系我们</span>
     			<ul>
-    				<li><i></i><a href="">联系方式</a></li>
+    				<li><i></i><a href="index.asp">联系方式</a></li>
     			</ul>
     		</div>
     		<div class="dn">
@@ -28,7 +28,7 @@
     			<span>团体服装定制</span>
     			<p>为您打造完美着装</p>
     		</div>
-    		<a href="" class="la"><img src="images/llj_03.jpg" alt="" /></a>
+    		<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank" class="la"><img src="images/llj_03.jpg" alt="" /></a>
     		
     	</div>
     	<div class="n-right">
@@ -38,7 +38,7 @@
     			    <span>Contact Us</span>
     		    </div>
     		    <div class="ndh-r">
-    			您当前所在位置: <a href="">首页</a> - 联系我们
+    			您当前所在位置: <a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank">首页</a> - 联系我们
     		    </div>
     	    </div>
     	    <div class="n-lx">
@@ -53,7 +53,7 @@ E-mail:zzb@126.com<br />
 正职帮团定部（B座11038室）  正职帮全品类展厅（B座12014-12015） <br />
 乘车路线：乘坐地铁2号线钟楼站下A出口（星巴克左手边进）
     	    	</p>
-    	    	<a href="">公司地图</a>
+    	    	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank">公司地图</a>
     	    	<div class="mt-15">
         		    <iframe src="map.html" width="720px" height="396px"  frameborder="0" scrolling="no"></iframe>
         	    </div>

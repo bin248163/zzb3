@@ -13,7 +13,7 @@
 	<img src="images/gzf1_03.jpg" alt="" />
 </div>
 <div class="w-1000">
-	<a href=""><img src="images/gzf2_06.jpg" alt="" style="margin: 80px auto;" /></a>
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank"><img src="images/gzf2_06.jpg" alt="" style="margin: 80px auto;" /></a>
 </div>
 <div style="background: url(images/cfy8_26.jpg) no-repeat center;height: 330px;"></div>
 <div class="w-1000">
@@ -25,7 +25,7 @@
 </div>
 <div style="background: url(images/gzf5_20.jpg) no-repeat center;height: 738px;"></div>
 <div class="w-1000">
-	<a href=""><img src="images/lc_27.jpg" alt=""  style="margin: 0 auto;"/></a>	
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank"><img src="images/lc_27.jpg" alt=""  style="margin: 0 auto;"/></a>	
 </div>
 <div class="w-1000">
 	<img src="images/zz7_28.jpg" alt=""  style="margin: 60px auto;"/>
@@ -38,8 +38,8 @@
 			<div class="js">
 				<span>西安正职帮服饰有限公司</span>
 				<p>西安正职帮服饰有限公司是中国一个团体服装一站式定制机构与时尚职业装快时尚品。业务模式为时下最先进的 O2O模式，在每个省会城市都会有一家专业为企业解决统一着装需求的办公室门店。西安博溢电子商务始于2007年， 一直致力于互联网电子商务领域。正职帮创立于2012年，是一家互联网O2O本地化运营理念的品牌服装定制。主要将 业务分开为两块团体服装需求定制与时尚职业服装快销。</p>
-				<a href="" class="red">查看详情</a>
-				<a href="" class="hui">查看荣誉资质</a>
+				<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank" class="red">查看详情</a>
+				<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank" class="hui">查看荣誉资质</a>
 			</div>
 		</div>
 		<div class="gd mc-15">
@@ -107,7 +107,7 @@
 </div>
 
 <div class="w-100">
-	<a href=""><img src="images/zz8_32.jpg" alt="" style="width: 100%" /></a>
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank"><img src="images/zz8_32.jpg" alt="" style="width: 100%" /></a>
 </div>
 <!--#include file="bottom.asp"-->
 		<script type="text/javascript">		

@@ -3,11 +3,10 @@ console.log('%chttp://bapingyun.com/','color:#f00');
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
-  hm.src = "//hm.baidu.com/hm.js?1aa9f98fc3b6dec4380a8f42f0ddda72";
+  hm.src = "https://hm.baidu.com/hm.js?1c03d3676ecc99f9aea460172a2c247b";
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
-
 $(function(){
   var $na=$('#na');
 	var $navw=$('#nav-w');

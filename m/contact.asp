@@ -9,7 +9,7 @@
 	    	</a>
 	    </div>
 	    <div class="content">
-	    	<div class="n-banner" style="background-image: url(images/banner4_02.jpg);"></div>
+	    	<div><img src="images/conn_02.jpg" alt="" style="width: 100%;" /></div>
 	    	<div class="n-zs-x pb-20">
 	    		<p class="n-zs-p4">西安正职帮服饰有限公司</p>
 	    		<p class="n-zs-p1">

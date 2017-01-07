@@ -40,7 +40,7 @@
 	<img src="images/sj3_03.jpg" alt=""  style="margin: 20px auto;"/>
 </div>
 <div class="w-100" style="background: url(images/sj3_09.jpg) no-repeat center;height: 797px;margin-top: 40px;"></div>
-<div class="w-100" style="margin-top: 60px;"><a href=""><img src="images/sj4_11.jpg" alt="" style="width: 100%;"/></a></div>
+<div class="w-100" style="margin-top: 60px;"><a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank"><img src="images/sj4_11.jpg" alt="" style="width: 100%;"/></a></div>
 <!--#include file="bottom.asp"-->
 		<script type="text/javascript">		
 function curNav(num){

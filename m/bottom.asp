@@ -32,32 +32,32 @@
 	<div class="con">
 		<p class="hx">
 			<span>热门类别</span> <br />
-			<a href="product.asp">团体西服定制 </a>
-			<a href="cooperation.asp">团体衬衫定制</a>
-			<a href="cooperation.asp">团体呢大衣定制</a>
+			<a href="Suit.asp">团体西服定制 </a>
+			<a href="shirt.asp">团体衬衫定制</a>
+			<a href="Suit.asp">团体呢大衣定制</a>
 		</p>
 	</div>
 	<div class="con">
 		<p class="hx">
 			<span>友情链接</span> <br />
-			<a href="product.asp">正职帮官方微博 </a>
-			<a href="cooperation.asp">正职帮淘宝旗舰店</a>
+			<a href="about.asp">正职帮官方微博 </a>
+			<a href="about.asp">正职帮淘宝旗舰店</a>
 		</p>
 	</div>
 <div class="bot">
 	<img src="images/ewm.jpg" alt="" />
 	<span>扫二维码，关注正职帮官方公众号</span>
 	<div class="dt">
-		<a href="">网站地图</a> |
-		<a href="">关于我们 </a> |
-		<a href="">招商合作</a> |
-		<a href="">媒体报道</a>
+		<a href="contact.asp">网站地图</a> |
+		<a href="about.asp">关于我们 </a> |
+		<a href="contact.asp">招商合作</a> |
+		<a href="about.asp">媒体报道</a>
 	</div>
 	<div class="dh-d">24小时服务热线：
 		<a href="tel:4008005068">400-800-5068</a>
 	</div>
 	<p class="dz">
-		版权所有 西安正职帮服饰有限公司 陕ICP备11020000-1号 <br /> 地址：北大街与西华门交叉口宏府嘉会广场 <br /> 正职帮团定部（B座11038室） 正职帮全品类展厅（B座12014-12015） <br /> 技术支持：
+		版权所有 西安正职帮服饰有限公司<br />   网站备案/许可证号 陕ICP备16010721号-1 <br /> 地址：北大街与西华门交叉口宏府嘉会广场<br />B座11038室 <br /> 技术支持：
 		<a href="http://www.bapingyun.com/m" target="_blank">霸屏科技</a>
 	</p>
 </div>

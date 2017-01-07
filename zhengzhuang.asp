@@ -1,5 +1,5 @@
 <!--#include file="top.asp"-->
-<a href=""><img src="images/zz_02.jpg" alt="" style="width: 100%;" /></a>
+<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank"><img src="images/zz_02.jpg" alt="" style="width: 100%;" /></a>
 
 </div>
 <div class="title1">
@@ -14,7 +14,7 @@
 	<img src="images/zz1_05.jpg" alt="" />
 </div>
 <div class="w-1000">
-	<a href=""><img src="images/zz2_08.jpg" alt="" style="margin: 60px auto 0;" /></a>
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank"><img src="images/zz2_08.jpg" alt="" style="margin: 60px auto 0;" /></a>
 </div>
 <div class="w-100">
 	<img src="images/zz3_11.jpg" alt="" style="margin: 60px auto;width: 100%;" />
@@ -53,7 +53,7 @@
 <div class="w-100" style="background: url(images/zz8_30.jpg) no-repeat center top;height:797px;"></div>
 
 <div class="w-100">
-	<a href=""><img src="images/zz8_32.jpg" alt="" style="width: 100%;margin-top: 60px;" /></a>
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank"><img src="images/zz8_32.jpg" alt="" style="width: 100%;margin-top: 60px;" /></a>
 </div>
 <!--#include file="bottom.asp"-->
 <script type="text/javascript">

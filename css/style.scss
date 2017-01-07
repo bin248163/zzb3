@@ -257,7 +257,30 @@ a{text-decoration:none;color:#444;
         span{height: 20px;display: inline-block;line-height: 20px;}
     }   
 }
-.qq{position: fixed;top: 40%;right: 0;overflow: hidden;}
+.sq{width: 70px; background: #fff;position: fixed; right: 10px; top: 50%;z-index: 2016;box-shadow:0 1px 3px rgba(0,0,0,.3);margin-top: -100px;display: none;}
+.sqa:hover{color: #ff6700;}
+.sq-qq{ width: 100%; height: 70px; display: block; padding-top: 5px; position: relative; cursor: pointer;}
+.sq-dh{ width: 100%; height: 70px; display: block; padding-top: 5px; position: relative; cursor: pointer;}
+.sq-wx{ width: 100%; height: 70px; display: block; padding-top: 5px; position: relative; cursor: pointer;}
+.sq-top{ border-radius: 0 0 5px 5px; background:#eee;width: 100%; height: 45px; padding-top: 5px; position: relative; cursor: pointer;}
+.sq-qqs{ width: 100%; text-align: center; display: block; font-size: 14px;}
+.sq-dhc{ width: 160px; position: absolute; top: 0; left: -190px; background: #FF6700; padding: 10px;border-radius: 5px; display: none;}
+.sq-dh1{ display: block; width: 100%; color: #fff; font-size: 25px; text-align: center;}
+.sq-dh2{ display: block; width: 100%; color: #fff; font-size: 13px; text-align: center;}
+.sq-dhc em{ height: 11px; width: 11px; display: block; right: -10px; top: 33px; position: absolute; background: url(../images/icon_tips.png) no-repeat;}
+.sq-i{ height: 32px; width: 35px; margin: auto;display: block;}
+.sq-i1{background: url(../images/sq-ico.png) 0 0 no-repeat;}
+.sq-qq:hover i{background: url(../images/sq-ico.png) -32px -0 no-repeat;}
+.sq-i2{background: url(../images/sq-ico.png) 2px -32px no-repeat;}
+.sq-dh:hover i{background: url(../images/sq-ico.png) -30px -32px no-repeat;}
+.sq-i3{background: url(../images/sq-ico.png) 2px -64px no-repeat;}
+.sq-wx:hover i{background: url(../images/sq-ico.png) -30px -64px no-repeat;}
+.sq-i4{ height: 16px; width: 16px; margin: auto;display: block;background: url(../images/icon_top.png) no-repeat;}
+.sq-top:hover i{background: url(../images/icon_top.png) -18px 0 no-repeat;}
+.sq-wxc{ width: 120px; position: absolute; top: -30px; left: -150px; background: #FF6700; padding: 10px 10px 5px 10px;border-radius: 5px; display: none;
+    img{width: 120px;}
+}
+.sq-wxc em{ height: 11px; width: 11px; display: block; right: -10px; top: 60px; position: absolute; background: url(../images/icon_tips.png) no-repeat;}
 
 //首页banner样式 更改banner高度只需更改此文件头部定义$banner函数值
 .flexslider {position: relative;width: 100%;height: $banner;overflow: hidden;zoom: 1;margin-bottom: 15px;background: #eee;

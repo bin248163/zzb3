@@ -1,6 +1,11 @@
-// Author:  前小端 
-// Author url: http://blog.qianxiaoduan.com
 
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3be0c5e7335b530d17d0c70b71db0bfb";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
 
 $(function() {
 	if($.browser.msie && $.browser.version <= 8) {
@@ -11,7 +16,37 @@ $(function() {
 	body.oncontextmenu = function() {
 		return false;
 	}*/
+	var zsq=$('#z-sq');
+	var zsqs=$('#z-sq span');
+	var sqw = $('#sq');
+	var sq = $('#sq div');
+	var lqq=$('#l-qq');
+	sq.hover(function() {
+		$(this).find('div').show();
+	}, function() {
+		$(this).find('div').hide();
+	});
+	$top = $('#top');
+	$(window).scroll(function() {
+		if ($(window).scrollTop() > 400) {
+			sqw.fadeIn(500);//一秒渐入动画
+	
+		} else {
+			sqw.fadeOut(500);
 
+		}
+	});
+	zsqs.click(function(){
+		zsq.hide();
+	})
+
+	$top.click(function() {
+		var speed = 300; //滑动的速度
+		$('body,html').animate({
+			scrollTop: 0
+		}, speed);
+		return false;
+	});
 	//banner
 	var bannerSlider = new Slider($('#banner_tabs'), {
 		time: 5000,
@@ -162,11 +197,7 @@ $(function() {
 			return false;
 	});
 	$tabList.eq(0).click();
-	//返回顶部
-	$('#top').click(function() {
-		$('body,html').animate({scrollTop: 0}, 300);
-		return false;
-	});
+
 	//向左滚动效果
 	if($('#demo').length > 0) {
 		var speed = 50; //数字越大速度越慢

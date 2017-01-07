@@ -14,7 +14,7 @@
 	<img src="images/gd1_05.jpg" alt="" />
 </div>
 <div class="w-1000">
-	<a href=""><img src="images/gd2_08.jpg" alt="" style="margin: 80px auto;" /></a>
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank"><img src="images/gd2_08.jpg" alt="" style="margin: 80px auto;" /></a>
 </div>
 <div class="w-1000">
 	<img src="images/xj_03.jpg" alt=""  style="margin: 0 auto;"/>
@@ -46,7 +46,7 @@
 </div>
 <div style="background: url(images/dt_24.jpg) no-repeat center;height: 739px;"></div>
 <div class="w-1000">
-	<a href=""><img src="images/lc_27.jpg" alt=""  style="margin: 0 auto 60px;"/></a>
+	<a href="http://p.qiao.baidu.com/cps/chat?siteId=10265248&userId=20855829"  target="_blank"><img src="images/lc_27.jpg" alt=""  style="margin: 0 auto 60px;"/></a>
 </div>
 <!--#include file="bottom.asp"-->
 		<script type="text/javascript">		

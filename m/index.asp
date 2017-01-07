@@ -27,83 +27,85 @@
 	</div>
 	<div class="con">
 		<a class="nav" href="index.asp">
-			<i><img src="images/i1_05.jpg" alt="" /></i>
+			<i><img src="images/n1_03.jpg" alt="" /></i>
 			<span>首页</span>
 		</a>
 		<a class="nav" href="Suit.asp">
-			<i><img src="images/i2_05.jpg" alt="" /></i>
+			<i><img src="images/n2_03.jpg" alt="" /></i>
 			<span>西装定制</span>
 		</a>
-		<a class="nav" href="lady.asp">
-			<i><img src="images/i8_05.jpg" alt="" /></i>
-			<span>冲锋衣定制</span>
-		</a>
 		<a class="nav" href="shirt.asp">
-			<i><img src="images/i3_05.jpg" alt="" /></i>
+			<i><img src="images/n3_03.jpg" alt="" /></i>
 			<span>衬衫定制</span>
 		</a>
+		<a class="nav" href="lady.asp">
+			<i><img src="images/n4_03.jpg" alt="" /></i>
+			<span>冲锋衣定制</span>
+		</a>
+		
 		<a class="nav" href="Overcoat.asp">
-			<i><img src="images/i4_05.jpg" alt="" /></i>
+			<i><img src="images/n5_03.jpg" alt="" /></i>
 			<span>正装工作服</span>
 		</a>
-		<a class="nav" href="Coverall.asp">
-			<i><img src="images/i7_03.jpg" alt="" /></i>
-			<span>工作服定制</span>
-		</a>
 		<a class="nav" href="School uniform.asp">
-			<i><img src="images/i3_13.jpg" alt="" /></i>
+			<i><img src="images/n6_03.jpg" alt="" /></i>
 			<span>校服定制</span>
 		</a>
+		<a class="nav" href="Coverall.asp">
+			<i><img src="images/n7_03.jpg" alt="" /></i>
+			<span>工程工作服</span>
+		</a>
+		
 		<a class="nav" href="case.asp">
-			<i><img src="images/i5_05.jpg" alt="" /></i>
-			<span>客户案例</span>
+			<i><img src="images/n8_03.jpg" alt="" /></i>
+			<span>设计师品牌</span>
 		</a>
 		<a class="nav" href="about.asp">
-			<i><img src="images/i6_05.jpg" alt="" /></i>
+			<i><img src="images/n9_03.jpg" alt="" /></i>
 			<span>关于我们</span>
 		</a>
 		<a class="nav" href="contact.asp">
-			<i><img src="images/i7_05.jpg" alt="" /></i>
+			<i><img src="images/n10_03.jpg" alt="" /></i>
 			<span>联系我们</span>
 		</a>
 	</div>
 	<div class="con">
 		<h1 class="h1">我们能</h1>
 		<p style="text-align: center;">
-			<a href="">西装工装</a>
-			<a href="">衬衣</a>
+			<a href="Suit.asp">西装工装</a>
+			<a href="shirt.asp">衬衣</a>
 			<a href="">大衣 </a>
-			<a href="">冲锋衣</a>
-			<a href="">工作服</a>
+			<a href="lady.asp">冲锋衣</a>
+			<a href="Overcoat.asp">工作服</a>
 			<a href="">文化衫</a>
-			<a href="">特需定制</a>
+			<a href="case.asp">特需定制</a>
 		</p>
 		<div class="xz">
-			<a href="">
+			<a href="Suit.asp">
 				<img src="images/fy1_11.jpg" alt="" />
 				<p>高级定制西装</p>
 			</a>
 		</div>
 		<div class="xz">
-			<a href="">
+			<a href="shirt.asp">
 				<img src="images/fy2_11.jpg" alt="" />
 				<p>衬衣定制</p>
 			</a>
 		</div>
 		<div class="xz">
-			<a href="">
+			<a href="lady.asp">
 				<img src="images/fy3_11.jpg" alt="" />
 				<p>冲锋衣定制</p>
 			</a>
 		</div>
 		<div class="xz">
-			<a href="">
+			<a href="Overcoat.asp">
 				<img src="images/fy4_11.jpg" alt="" />
 				<p>职业正装</p>
 			</a>
 		</div>
 		<div class="xz">
-			<a href="">
+			<a href="Coverall.asp">
 				<img src="images/fy5_11.jpg" alt="" />
 				<p>工作服定制</p>
 			</a>
@@ -115,7 +117,7 @@
 			</a>
 		</div>
 		<div class="xz">
-			<a href="">
+			<a href="School uniform.asp">
 				<img src="images/fy7_11.jpg" alt="" />
 				<p>校服定制</p>
 			</a>

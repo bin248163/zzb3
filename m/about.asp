@@ -9,7 +9,7 @@
 	    	</a>
 	    </div>
 	    <div class="content">
-	    	<div class="n-banner" style="background-image: url(images/banner4_02.jpg);"></div>
+	    <div><img src="images/ab_02.jpg" alt="" style="width: 100%;" /></div>
 	    	
 		    
 		    <div class="con">
