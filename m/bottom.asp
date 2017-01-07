@@ -80,9 +80,9 @@
 		<span>查看地图</span>
 	</a>
 </div>
-<script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
-<script src="js/swiper.min.js"></script>
-<script src="js/jb.js"></script>
+<script type="text/javascript" src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+<script type="text/javascript" src="js/swiper.min.js"></script>
+<script type="text/javascript" src="js/jb.js"></script>
 <script type="text/javascript">
 	window.onload = function() {
 		var mySwiper = new Swiper('.swiper-container', {

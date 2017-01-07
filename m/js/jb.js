@@ -42,25 +42,6 @@ $(function(){
 		$navl.hide();
 	});
     
-    if($('#demo')[0]) {
-    var speed=50; //数字越大速度越慢
-	var t=$('#demo')[0];
-	var t1=$('#demo1')[0];
-	var t2=$('#demo2')[0];
-	t2.innerHTML=t1.innerHTML;
-	function Marquee(){
-	if(t2.offsetWidth-t.scrollLeft<=0)
-	t.scrollLeft-=t1.offsetWidth
-	else{
-	t.scrollLeft++;
-	}
-	}
-	var MyMar=setInterval(Marquee,speed);
-	t.onmouseover=function() {clearInterval(MyMar)};
-	t.onmouseout=function() {MyMar=setInterval(Marquee,speed)};
-    } else{
-    	return false;
-    }
-  
+   
     
 });

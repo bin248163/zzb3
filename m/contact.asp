@@ -9,7 +9,7 @@
 	    	</a>
 	    </div>
 	    <div class="content">
-	    	<div><img src="images/conn_02.jpg" alt="" style="width: 100%;" /></div>
+	    	<div style="margin-bottom: 1rem;"><img src="images/conn_02.jpg" alt="" style="width: 100%;" /></div>
 	    	<div class="n-zs-x pb-20">
 	    		<p class="n-zs-p4">西安正职帮服饰有限公司</p>
 	    		<p class="n-zs-p1">

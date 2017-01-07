@@ -155,7 +155,7 @@
 	</div>
 	<div class="con">
 		<img src="images/bs_14.jpg" alt="" />
-		<img src="images/bs1_16.jpg" alt="" />
+		<img src="images/bs1_02.jpg" alt="" />
 	</div>
 	<div class="con">
 		<h1 style="font-size: 1.3rem;text-align: center;">客户案例</h1>
