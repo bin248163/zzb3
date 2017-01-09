@@ -99,55 +99,55 @@
 			</a>
 		</div>
 		<div class="xz">
-			<a href="Overcoat.asp">
-				<img src="images/fy4_11.jpg" alt="" />
-				<p>职业正装</p>
-			</a>
-		</div>
-		<div class="xz">
 			<a href="Coverall.asp">
-				<img src="images/fy5_11.jpg" alt="" />
+				<img src="images/fy4_11.jpg" alt="" />
 				<p>工作服定制</p>
 			</a>
 		</div>
 		<div class="xz">
-			<a href="">
-				<img src="images/fy6_11.jpg" alt="" />
+			<a href="javascript:;">
+				<img src="images/fy5_11.jpg" alt="" />
 				<p>广告衫定制</p>
 			</a>
 		</div>
 		<div class="xz">
 			<a href="School uniform.asp">
-				<img src="images/fy7_11.jpg" alt="" />
+				<img src="images/fy6_11.jpg" alt="" />
 				<p>校服定制</p>
 			</a>
 		</div>
 		<div class="xz">
-			<a href="">
-				<img src="images/fy8_11.jpg" alt="" />
-				<p>衬棒球服定制</p>
-			</a>
-		</div>
-		<div class="xz">
-			<a href="">
-				<img src="images/fy9_11.jpg" alt="" />
+			<a href="javascript:;">
+				<img src="images/fy7_11.jpg" alt="" />
 				<p>大型活动文化衫</p>
 			</a>
 		</div>
 		<div class="xz">
-			<a href="">
-				<img src="images/fy10_11.jpg" alt="" />
-				<p>冬季保暖卫衣</p>
+			<a href="javascript:;">
+				<img src="images/fy8_11.jpg" alt="" />
+				<p>冬季保暖内衣</p>
 			</a>
 		</div>
 		<div class="xz">
-			<a href="">
-				<img src="images/fy11_11.jpg" alt="" />
+			<a href="javascript:;">
+				<img src="images/fy9_11.jpg" alt="" />
 				<p>皮肤风衣定做</p>
 			</a>
 		</div>
 		<div class="xz">
-			<a href="">
+			<a href="Overcoat.asp">
+				<img src="images/fy10_11.jpg" alt="" />
+				<p>职业正装</p>
+			</a>
+		</div>
+		<div class="xz">
+			<a href="javascript:;">
+				<img src="images/fy11_11.jpg" alt="" />
+				<p>棒球服定制</p>
+			</a>
+		</div>
+		<div class="xz">
+			<a href="javascript:;">
 				<img src="images/fy12_11.jpg" alt="" />
 				<p>志愿者义工马甲</p>
 			</a>

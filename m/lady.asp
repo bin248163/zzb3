@@ -10,7 +10,7 @@
 	</a>
 </div>
 <div class="content">
-	<div><img src="images/cfy_02.jpg" alt="" style="width: 100%;" /></div>
+	<div><a href="tel:4008005068"><img src="images/cfy_02.jpg" alt="" style="width: 100%;" /></a></div>
 	<div class="n-tit">
 		<h1>冲锋衣定制</h1>
 		<span>Custom suit</span>

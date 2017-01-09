@@ -6,7 +6,7 @@
 	-webkit-transform: translate3d(0, 0, 0)
 }
 
-.swiper-container {
+.swiper-container {height: 100%;
 	margin: 0 auto;
 	position: relative;
 	overflow: hidden;
@@ -66,7 +66,7 @@
 	margin: 0 auto
 }
 
-.swiper-slide {
+.swiper-slide {height: 100%;
 	-webkit-flex-shrink: 0;
 	-ms-flex: 0 0 auto;
 	flex-shrink: 0

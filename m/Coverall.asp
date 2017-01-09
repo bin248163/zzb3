@@ -1,6 +1,6 @@
 <!--#include file="top.asp"-->
 <div class="head">
-	    	<div class="header"><a href="index.asp"><i class="iconfont">&#xe779;</i></a><span>工作服定制</span></div>
+	    	<div class="header"><a href="index.asp"><i class="iconfont">&#xe779;</i></a><span>工程工作服</span></div>
 	    	<a class="tel" href="tel:4008005068">
 	    		<i><img src="images/dh.png" alt="" /></i>
 	    		<p>全国服务热线 <br />
@@ -9,9 +9,9 @@
 	    	</a>
 	    </div>
 	    <div class="content">
-	    	<div><img src="images/gzf_02.jpg" alt="" style="width: 100%;" /></div>
+	    	<div><a href="tel:4008005068"><img src="images/gzf_02.jpg" alt="" style="width: 100%;" /></a></div>
 	    	<div class="n-tit">
-	    		<h1>工作服定制 </h1>
+	    		<h1>工程工作服 </h1>
 	    		<span>Custom tailor</span>
 	    	</div>
 	    	<img src="images/gzf1_04.jpg" alt="" />

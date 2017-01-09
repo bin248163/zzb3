@@ -9,7 +9,7 @@
 	    	</a>
 	    </div>
 	    <div class="content">
-	    	<div><img src="images/sj_02.jpg" alt="" style="width: 100%;" /></div>
+	    	<div><a href="tel:4008005068"><img src="images/sj_02.jpg" alt="" style="width: 100%;" /></a></div>
 	    	<div class="n-tit">
 	    		<h1>设计师品牌</h1>
 	    		<span>Designer brand</span>

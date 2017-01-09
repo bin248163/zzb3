@@ -10,13 +10,13 @@
 	</a>
 </div>
 <div class="content">
-	<div><img src="images/cy_02.jpg" alt="" style="width: 100%;" /></div>
+	<div><a href="tel:4008005068"><img src="images/cy_02.jpg" alt="" style="width: 100%;" /></a></div>
 	<div class="n-tit">
 		<h1>正装工作服</h1>
 		<span>Dress overalls</span>
 	</div>
 	<img src="images/zz1_02.jpg" alt="" />
-	<a href=""><img src="images/zz2_05.jpg" alt="" style="margin: 1rem 0;" /></a>
+	<a href="tel:4008005068"><img src="images/zz2_05.jpg" alt="" style="margin: 1rem 0;" /></a>
 
 	<img src="images/zz3_07.jpg" alt="" style="margin-bottom: 1rem;" />
 	<div class="ntt">

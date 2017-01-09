@@ -10,7 +10,7 @@
 	</a>
 </div>
 <div class="content">
-	<div><img src="images/su_02.jpg" alt="" style="width: 100%;" /></div>
+	<div><a href="tel:4008005068"><img src="images/su_02.jpg" alt="" style="width: 100%;" /></a></div>
 	<div class="n-tit">
 		<h1>西装定制 </h1>
 		<span>Tailored suit</span>
